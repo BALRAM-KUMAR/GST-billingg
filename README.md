@@ -8,10 +8,12 @@ The steps you've outlined seem to cover the setup and running of the GST Billing
    Open a terminal within Visual Studio Code.
    Navigate to the main folder of the GST Billing website (GST-billingg) using the terminal or command line.
 4. Install Dependencies:
-   Run the command npm install i or npm i in the terminal to install the necessary project dependencies based on the package.json file.
-5. Run the Development Server:
-   After installing dependencies, start the development server by running the command npm run dev. This command might initiate the server and make the website accessible locally.
-6. Access the Website:
+   Run the command         "npm install i" or "npm i"
+   in the terminal to install the necessary project dependencies based on the package.json file.
+6. Run the Development Server:
+   After installing dependencies, start the development server by running the command  "npm run dev" .
+   This command might initiate the server and make the website accessible locally.
+8. Access the Website:
    Once the server is running, open a web browser and go to the specified local address provided by the development server, typically something
    like http://localhost:5173/.
    This address should display the GST Billing website running on your local machine.
