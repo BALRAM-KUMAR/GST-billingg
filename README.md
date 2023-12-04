@@ -20,13 +20,13 @@ The steps you've outlined seem to cover the setup and running of the GST Billing
  Implemented Functionality:
  
 1. Add Product Categories with their GST
-   
-![Screenshot 2023-12-05 002831](https://github.com/BALRAM-KUMAR/GST-billingg/assets/105160370/315bc16d-c225-4da4-9619-0cdafba6ae2e)
+  ![Screenshot 2023-12-05 002540](https://github.com/BALRAM-KUMAR/GST-billingg/assets/105160370/96ebdfbb-1c29-4a09-af71-63fd9842136d)
 
-2. Add Product With selecting Product Categories
-   
-![Screenshot 2023-12-05 002815](https://github.com/BALRAM-KUMAR/GST-billingg/assets/105160370/fda37f70-fb5d-4d26-bd32-1cfbbb2f141f)
+ 
+ 2. Add Product With selecting Product Categories  
+   ![Screenshot 2023-12-05 002831](https://github.com/BALRAM-KUMAR/GST-billingg/assets/105160370/315bc16d-c225-4da4-9619-0cdafba6ae2e)
+
 
 3. Generate bill (selecting their product categories and product with the quantity)
-   
-![Screenshot 2023-12-05 002540](https://github.com/BALRAM-KUMAR/GST-billingg/assets/105160370/96ebdfbb-1c29-4a09-af71-63fd9842136d)
+   ![Screenshot 2023-12-05 002815](https://github.com/BALRAM-KUMAR/GST-billingg/assets/105160370/fda37f70-fb5d-4d26-bd32-1cfbbb2f141f)
+
